@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WeighbridgeBilling:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeighbridgeBilling_jar</output-path>
+    <root id="archive" name="WeighbridgeBilling.jar">
+      <element id="module-output" name="WeighbridgeBilling" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.51.2.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/sqlite-jdbc-3.51.2.0.jar" />
+    </root>
+  </artifact>
+</component>
